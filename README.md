@@ -1,3 +1,2 @@
-Readme File
-
-hey, just trying branch facility for first time
+<b>FreeUpMySpace</b>
+ - Initilizing Development
