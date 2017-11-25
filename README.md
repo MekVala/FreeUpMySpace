@@ -1,2 +1,2 @@
 <b>FreeUpMySpace</b>
- - Initilizing Development
+ - Work Under Progress
